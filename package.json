@@ -23,9 +23,6 @@
     "lint": "standard",
     "test": "npm run lint"
   },
-  "dependencies": {
-    "babel-register": "6.x.x"
-  },
   "devDependencies": {
     "standard": "*"
   }
